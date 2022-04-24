@@ -12,26 +12,32 @@ Using a dataset containing individual credit loan information, a variety of diff
 ### Cluster Centroids<br>
 BAS = 0.60, high Precision but low Recall
 
+![](https://github.com/alexlieberman22/Credit_Risk_Analysis/blob/main/Images/Undersample.PNG)
 
 ### SMOTE<br>
 BAS = 0.60, high Precision but low Recall
 
+![](https://github.com/alexlieberman22/Credit_Risk_Analysis/blob/main/Images/SMOTE.PNG)
 
 ### SMOTEEN<br>
 BAS = 0.60, high Precision but low Recall
 
+![](https://github.com/alexlieberman22/Credit_Risk_Analysis/blob/main/Images/SMOTEEN.PNG)
 
 ### Random Over Sampler<br> 
 BAS = 0.64, high Precision but low Recall
 
+![](https://github.com/alexlieberman22/Credit_Risk_Analysis/blob/main/Images/Oversample.PNG)
 
 ### Balanced Random Forest<br>
 BAS = 0.79, high Precision and high Recall
 
+![](https://github.com/alexlieberman22/Credit_Risk_Analysis/blob/main/Images/Balanced_Random_Forest.PNG)
 
 ### Easy Ensemble<br>
 BAS = 0.92, high Precision and very high Recall
 
+![](https://github.com/alexlieberman22/Credit_Risk_Analysis/blob/main/Images/EasyEnsemble.PNG)
 
 ## Summary
 
