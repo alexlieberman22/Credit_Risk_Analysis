@@ -41,4 +41,4 @@ BAS = 0.92, high Precision and very high Recall
 
 ## Summary
 
-The best preforming model and the one to use would be the Easy Ensemble model. All other models except Balanced Random Forest preformed far less accurately predicting far too many good credit loans as risky. Only Easy Ensemble had a sensible number of false positives.
+The best preforming model and the one recommended would be the Easy Ensemble model. All other models except Balanced Random Forest preformed far less accurately predicting far too many good credit loans as risky. Only Easy Ensemble had a sensible number of false positives.
